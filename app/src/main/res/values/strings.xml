@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TiposDeInterface</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ttl_login">Faça seu Login</string>
+    <string name="ttl_nome">Nome </string>
+    <string name="ttl_senha">Senha</string>
+    <string name="ttl_ok">Ok</string>
+    <string name="msg_saudacao">Bem vinda, Malu!</string>
+    <string name="msg_erro">Usuário ou Senha inválida</string>
+</resources>
